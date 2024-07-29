@@ -47,7 +47,7 @@ namespace Calculadora
     }
 }
 ```
-Testes Unitários
+#### Testes Unitários
 Os testes unitários foram implementados utilizando o xUnit. Eles verificam o correto funcionamento das operações da calculadora. Os testes estão localizados na pasta tests/Calculadora.Tests e são compostos pelo seguinte:
 
 ```csharp
