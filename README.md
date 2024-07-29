@@ -47,6 +47,43 @@ namespace Calculadora
     }
 }
 ```
+Testes Unitários
+Os testes unitários foram implementados utilizando o xUnit. Eles verificam o correto funcionamento das operações da calculadora. Os testes estão localizados na pasta tests/Calculadora.Tests e são compostos pelo seguinte:
+
+```csharp
+using Calculadora;
+using Xunit;
+
+namespace TesteCalculadora
+{
+    public class CalculadoraTeste
+    {
+        [Fact]
+        public void Somar()
+        {
+            Assert.Equal(20, Calculadora.Calculadora.Somar(10, 10));
+        }
+
+        [Fact]
+        public void Subtrair()
+        {
+            Assert.Equal(0, Calculadora.Calculadora.Subtrair(10, 10));
+        }
+
+        [Fact]
+        public void Dividir()
+        {
+            Assert.Equal(1, Calculadora.Calculadora.Dividir(10, 10));
+        }
+
+        [Fact]
+        public void Multiplicar()
+        {
+            Assert.Equal(100, Calculadora.Calculadora.Multiplicar(10, 10));
+        }
+    }
+}
+```
 Contribuição
 Sinta-se à vontade para fazer melhorias ou adicionar novos recursos. Envie um pull request para contribuir.
 
