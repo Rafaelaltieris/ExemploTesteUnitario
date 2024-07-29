@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="150"/> <img src="https://xunit.net/images/xunit-logo.png" alt="xUnit Logo" width="150"/>
+# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="150"/> <img src="https://media.licdn.com/dms/image/D4E12AQE4AmAdWfL3sQ/article-cover_image-shrink_600_2000/0/1695127505668?e=2147483647&v=beta&t=ziuXm_riVZkSTXxDED73oH62D_VLoupVaZKdeF9oTxQ" alt="xUnit Logo" width="150"/>
 
 # Calculadora com Testes Unitários
 
@@ -47,3 +47,8 @@ namespace Calculadora
     }
 }
 ```
+Contribuição
+Sinta-se à vontade para fazer melhorias ou adicionar novos recursos. Envie um pull request para contribuir.
+
+Licença
+Este projeto está licenciado sob a MIT License.
