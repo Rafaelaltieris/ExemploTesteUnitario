@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="150" style="vertical-align: middle;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/XUnit_logo.svg/1200px-XUnit_logo.svg.png" alt="xUnit Logo" width="150" style="vertical-align: middle;"/>
+# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="150" style="vertical-align: middle;"/> <img src="https://avatars.githubusercontent.com/u/27236192?s=200&v=4" alt="xUnit Logo" width="150" style="vertical-align: middle;"/>
 
 # Calculadora com Testes Unitários
 
