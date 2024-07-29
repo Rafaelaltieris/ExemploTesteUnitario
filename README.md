@@ -1,4 +1,4 @@
-# ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png width="150") ![xUnit Logo](https://xunit.net/images/xunit-logo.png) Calculadora com Testes Unitários
+# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="150"/> <img src="https://xunit.net/images/xunit-logo.png" alt="xUnit Logo" width="150"/>
 
 # Calculadora com Testes Unitários
 
